@@ -13,3 +13,6 @@ backend/**/__pycache__/
 
 # Editor / OS
 .DS_Store
+
+instructions.md 
+
